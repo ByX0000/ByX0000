@@ -38,7 +38,7 @@
 │   location: "Istanbul, Türkiye 🇹🇷"                                  │
 │   role: "Turkish Language & Literature Teacher"                      │
 │   title: "International Projects Coordinator"                        │
-│   school: "Göztepe İhsan Kurşunoğlu Anadolu Lisesi (GİKAL)"        │
+│   school: "Public Anatolian High School, Istanbul"                  │
 │   education:                                                         │
 │     - degree: "Türk Dili ve Edebiyatı"                               │
 │       university: "Çukurova Üniversitesi"                            │
@@ -122,7 +122,7 @@ I come from a background in **literary writing and journalism** (Evrensel gazete
 <tr>
 <td width="50%" valign="top">
 
-### 🏫 GİKAL — School Innovation Hub
+### 🏫 Education — School Innovation Hub
 **Erasmus+ KA121 · eTwinning · STEM School Label**
 
 The nerve center. I coordinate Erasmus+ mobilities, 20+ eTwinning projects, STEM School Label applications, and institutional development for a public Anatolian high school in Kadıköy. Recent highlight: KA121 mobility to Palermo (IISS Lercara Friddi), with full documentation deployed as a [live Vercel web app](https://github.com/ByX0000/erasmus-timeline). Sister school protocols with Bosnia-Herzegovina. Italian reciprocal visit planned for October 2026 (12 students + 3 teachers).
@@ -144,10 +144,10 @@ Our team is building a quantum-assisted genetic circuit optimizer using QAOA alg
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 FRC REEFSCAPE — GİKAL Robotics
+### 🤖 FRC REEFSCAPE — School Robotics
 **Founder & Advisor**
 
-Founded GİKAL's FIRST Robotics Competition team from scratch. Four students competed at the NYC Regional in 2025. Built a comprehensive **14-week Rookie Pipeline** framework for onboarding 9th–10th graders. Strategic partnerships with Sultans of Turkiye (Team 2905) and IstanBULLS (Team 6064). Next target: competing in a Turkish Regional under our own banner.
+Founded my school's FIRST Robotics Competition team from scratch. Four students competed at the NYC Regional in 2025. Built a comprehensive **14-week Rookie Pipeline** framework for onboarding 9th–10th graders. Strategic partnerships with Sultans of Turkiye (Team 2905) and IstanBULLS (Team 6064). Next target: competing in a Turkish Regional under our own banner.
 
 *Two TÜBİTAK first-place awards from previous school. Building that legacy forward.*
 
@@ -157,7 +157,7 @@ Founded GİKAL's FIRST Robotics Competition team from scratch. Four students com
 ### 🌍 7 Bölge 7 Okul
 **Cultural Heritage Initiative (2025–2029)**
 
-A 4-year cultural heritage project coordinated by GİKAL with 6 partner schools across Turkey's 7 geographic regions. Year 1 output: **"Anadolu Sofrası"** — a bilingual gastronomy book with 49 recipes and Ottoman miniature illustrations. Website: [7bolge7okul.education](https://7bolge7okul.education) (open source, coded by me). Simultaneously runs as eTwinning project and TÜBİTAK 2204-A project.
+A 4-year cultural heritage project coordinated by our school with 6 partner schools across Turkey's 7 geographic regions. Year 1 output: **"Anadolu Sofrası"** — a bilingual gastronomy book with 49 recipes and Ottoman miniature illustrations. Website: [7bolge7okul.education](https://7bolge7okul.education) (open source, coded by me). Simultaneously runs as eTwinning project and TÜBİTAK 2204-A project.
 
 </td>
 </tr>
@@ -189,7 +189,7 @@ A comprehensive university guidance system covering **110+ universities** across
 ### 🧫 BioLab Projects
 **Physarum · WiFi CSI · PoID**
 
-**Physarum Robotics:** Slime mold-guided decision-making systems (TÜBİTAK 2204-A candidate). **Görünmez Doktor:** WiFi CSI biosensor project for non-invasive health monitoring. **PoID:** Blockchain-based certificate verification for GİKAL. **GenBankası:** Bioinformatics platform integrating AI workflows.
+**Physarum Robotics:** Slime mold-guided decision-making systems (TÜBİTAK 2204-A candidate). **Görünmez Doktor:** WiFi CSI biosensor project for non-invasive health monitoring. **PoID:** Blockchain-based certificate verification system. **GenBankası:** Bioinformatics platform integrating AI workflows.
 
 </td>
 <td width="50%" valign="top">
@@ -348,7 +348,7 @@ Created Sci-Hub, the "Pirate Bay of science." Made 85+ million research papers f
 
 ```mermaid
 mindmap
-  root((GİKAL 2026))
+  root((Education 2026))
     🧬 iGEM Paris
       QAOA Repressilator
       Physarum Lab
@@ -407,6 +407,5 @@ mindmap
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
 
-<sub>⚡ Last updated: May 2026 · Built with passion, Claude, and too much çay 🍵</sub>
 
 </div>
