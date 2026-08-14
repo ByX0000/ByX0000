@@ -1,23 +1,29 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Mesut%20Akatay&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Teacher%20%E2%80%A2%20Builder%20%E2%80%A2%20Open%20Source%20Advocate&descSize=18&descColor=8b949e&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,70:1f6feb,100:8957e5&height=230&section=header&text=Mesut%20Akatay&fontSize=54&fontColor=58a6ff&animation=fadeIn&fontAlignY=34&desc=Teacher%20%E2%80%A2%20Builder%20%E2%80%A2%20Project%20Architect%20%E2%80%A2%20Open%20Source%20Advocate&descSize=17&descColor=8b949e&descAlignY=54" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8F%AB+Turkish+Language+%26+Literature+Teacher;%F0%9F%8C%8D+International+Projects+Coordinator;%F0%9F%A7%AC+Synthetic+Biology+%2B+Quantum+Computing+Explorer;%F0%9F%A4%96+AI%2FML+%26+Educational+Technology+Developer;%E2%9C%8A+Information+wants+to+be+free." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=120&lines=%F0%9F%8F%AB+Turkish+Language+%26+Literature+Teacher;%F0%9F%8C%8D+International+Projects+Coordinator;%F0%9F%A7%AC+iGEM+2026+%C2%B7+ZipTide+%C2%B7+Team+%236490;%F0%9F%A4%96+FRC+%2B+Marine+Robotics+Founder;%F0%9F%93%9A+EdTech+%26+Mentorship+Platform+Developer;%E2%9C%8A+Information+wants+to+be+free." alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Quote Block -->
 > *"Information is power. But like all power, there are those who want to keep it for themselves."*
 > — **Aaron Swartz** (1986–2013)
 
 <br/>
 
-<!-- Profile Views & Stats -->
 ![Profile Views](https://komarev.com/ghpvc/?username=ByX0000&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/ByX0000?style=for-the-badge&color=238636&logo=github&label=Followers)](https://github.com/ByX0000)
 [![GitHub stars](https://img.shields.io/github/stars/ByX0000?style=for-the-badge&color=e3b341&logo=github&label=Total+Stars)](https://github.com/ByX0000)
+
+<br/>
+
+![Projects](https://img.shields.io/badge/Active_Projects-14+-1f6feb?style=flat-square&labelColor=0d1117)
+![Countries](https://img.shields.io/badge/Partner_Countries-5-238636?style=flat-square&labelColor=0d1117)
+![Students](https://img.shields.io/badge/Students_Reached-665-8957e5?style=flat-square&labelColor=0d1117)
+![iGEM](https://img.shields.io/badge/iGEM_2026-Team_%236490-e3b341?style=flat-square&labelColor=0d1117)
+![License](https://img.shields.io/badge/Default_License-Open-58a6ff?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -38,22 +44,29 @@
 │   location: "Istanbul, Türkiye 🇹🇷"                                  │
 │   role: "Turkish Language & Literature Teacher"                      │
 │   title: "International Projects Coordinator"                        │
-│   school: "Public Anatolian High School, Istanbul"                  │
+│   school: "Public Anatolian High School, Kadıköy / Istanbul"         │
 │   education:                                                         │
 │     - degree: "Türk Dili ve Edebiyatı"                               │
 │       university: "Çukurova Üniversitesi"                            │
 │     - degree: "Adalet (Associate)"                                   │
 │     - degree: "Laborantlık (Associate)"                              │
+│   domains:                                                           │
+│     - synthetic_biology   # iGEM 2026 · ZipTide                      │
+│     - robotics            # FRC + Marine Robotics                    │
+│     - international_ed    # Erasmus+ · eTwinning · Jugendbrücke      │
+│     - cultural_heritage   # 7 Bölge 7 Okul (2025–2029)               │
+│     - edtech              # ROTANAED · Mentor Portal · EduChain      │
+│     - generative_media    # AI film, data art, book production       │
 │   philosophy: "Build at the intersection of education, AI & science" │
 │   github: "ByX0000"                                                  │
-│   motto: "Scientia potentia est — but only when shared."             │
+│   motto: "Scientia potentia est, but only when shared."              │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
-I'm a high school teacher from Istanbul who refuses to accept that the classroom has walls. I build tools, coordinate international projects, advise robotics and synthetic biology teams, write code, produce AI-animated films, and develop open-source educational technology — all while teaching Turkish literature to teenagers who are probably smarter than me.
+I'm a high school teacher from Istanbul who refuses to accept that the classroom has walls. I build tools, coordinate international projects, advise robotics and synthetic biology teams, write code, produce AI-animated films, and develop open-source educational technology, all while teaching Turkish literature to teenagers who are probably smarter than me.
 
-My work lives at the crossroads of **education**, **artificial intelligence**, **synthetic biology**, and **open knowledge**. I believe that a teacher's job isn't to fill minds — it's to open doors. And if those doors don't exist yet, we build them.
+My work lives at the crossroads of **education**, **artificial intelligence**, **synthetic biology**, and **open knowledge**. A teacher's job isn't to fill minds; it's to open doors. And if those doors don't exist yet, we build them.
 
 I come from a background in **literary writing and journalism** (Evrensel gazetesi, Uluslararası Çukurova Sanat Girişimi). I carry the same storytelling discipline into code: every project should tell a story, every interface should have a narrative, and every dataset should whisper its secrets to those who listen carefully.
 
@@ -65,11 +78,108 @@ I come from a background in **literary writing and journalism** (Evrensel gazete
 
 <div align="center">
 
-## ⚡ Tech Arsenal
+## 📦 Shipping Log · Last 60 Days
+
+*June 14 → August 14, 2026*
 
 </div>
 
+| 🗓 | Deliverable | Domain | Status |
+|:--|:--|:--|:--|
+| **Jun 17** | **"Ulusal Bir Kültür Köprüsü"** published. Year-1 output of 7 Bölge 7 Okul: 179 pages, 49 recipes, bilingual, Canva production pipeline | Cultural Heritage | ✅ Shipped |
+| **Jun 8–13** | **GENIUS Olympiad** finals in Rochester, NY. Team *Çeşme-i Hayat* competing; Turkish finalist guide translated and distributed | Competitions | ✅ Completed |
+| **Jun** | **ZipTide × 7B7O sub-project**: 49 recipes scored on gut-support and sustainability axes, two-layer referencing rule, sensitivity analysis instead of citation-per-weight | iGEM + Heritage | ✅ Shipped |
+| **Jun** | **"ZipTide ve Altın Fermuar"** children's picture book. 8 scenes, Nano Banana pipeline, typeset PDF | Science Comms | ✅ Shipped |
+| **Jun** | **8-mer Design Space** generative data-art piece. 2,220,075 compositions across a 20⁸ sequence universe, entropy-reveal animation | Data Art | ✅ Shipped |
+| **Jul** | **Wet lab at YTÜ MBG** (Caco-2 / HT-29), docking runs on TRUBA HPC, zonulin and tight-junction pathway targeting locked in | Synthetic Biology | 🔬 Running |
+| **Jul 30** | **iGEM Stage II Finalization** + Jamboree ticketing completed for Team #6490, Türkiye's only 2026 team | iGEM | ✅ Cleared |
+| **Aug 12** | **ZipTide Project Promotion Video** submitted. Storyboards, WebVTT captions, editor guides produced in-house | iGEM | ✅ Submitted |
+| **Aug** | **"İki İplik" bilingual screenplay format** finalized and filed as an official **iGEM Contribution** | iGEM | ✅ Submitted |
+| **Aug** | **TKS 2026 acceptances** announced and disseminated through individual student graphics | Student Success | ✅ Done |
+| **Aug** | **STEM School Label** re-application window opened. Previous cycle scored 56/100; 21-criteria gap analysis complete | Institutional | 🔄 In progress |
+| **Ongoing** | **EduChain**, blockchain-based certificate verification, deployed | EdTech | 🟢 Live |
+| **Ongoing** | **Veli Memnuniyet Anketi** dashboard deployed on Netlify | EdTech | 🟢 Live |
+| **Ongoing** | **7bolge7okul.education** self-hosted on Hetzner | Infrastructure | 🟢 Live |
+| **Ongoing** | **Mentor Website + Mentor Portal** build. University guidance and competition mentorship platform | EdTech | 🏗 Building |
+| **Ongoing** | **MEB Proje Okulu Report**, 20 sections in 5 parts. Section 5 and front matter complete | Institutional | 🏗 Building |
+| **Ongoing** | **Marine Robotics Team** founded; **FRC Singularity G-Flow** founding underway with Fikret Yüksel Vakfı sponsorship | Robotics | 🏗 Building |
+| **Ongoing** | **PureCheck** cosmetic-ingredient app architecture, eight design invariants defined | Product Design | 📐 Spec |
+
+---
+
 <div align="center">
+
+## 🗺 Project Map
+
+</div>
+
+```mermaid
+mindmap
+  root((Mesut Akatay<br/>2026))
+    🧬 Synthetic Biology
+      ZipTide · iGEM 6490
+        8-mer Peptide Design
+        Zonulin Tight Junction
+        Caco-2 · HT-29 Wet Lab
+        TRUBA HPC Docking
+      ZipTide x 7B7O
+        49 Recipe Scoring
+        Sustainability Axis
+      Science Comms
+        Altın Fermuar Book
+        Promotion Video
+        İki İplik Screenplay
+    🌍 International
+      Erasmus KA121
+        Palermo Mobility
+        Italy Return Leg to Türkiye
+      Germany
+        Hugo-Junkers-Realschule
+        Deutsch-Türkische Jugendbrücke
+      Bosnia and Herzegovina
+        Sister School Protocol
+        7B7O Partnership
+      Bulgaria
+        Trilateral Mobility
+      eTwinning
+        Quality Label
+        School Label
+    📚 EdTech Platforms
+      Mentor Website
+      Mentor Portal
+        University Admissions
+        Competition Mentorship
+      ROTANAED
+        110+ Universities
+        9 US States
+      EduChain
+      Veli Anket Dashboard
+      PureCheck
+    🏛 Cultural Heritage
+      7 Bölge 7 Okul 2025-2029
+        Ulusal Bir Kültür Köprüsü
+        49 Recipes · 179 Pages
+        7 Regions · 7 Schools
+        7bolge7okul.education
+      Harname'nin Düşü
+        BİR HAR BİR DİVAN
+        4-Year MEB Plan
+    🤖 Robotics
+      FRC Singularity G-Flow
+      Marine Robotics Team
+      14-Week Rookie Pipeline
+    🏆 Student Ecosystem
+      Harvard Crimson
+      GENIUS Olympiad
+      TKS 2026
+      Breakthrough Junior
+```
+
+---
+
+<div align="center">
+
+## ⚡ Tech Arsenal
 
 ### 🔤 Languages & Markup
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -78,34 +188,52 @@ I come from a background in **literary writing and journalism** (Evrensel gazete
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### ⚛️ Frontend & Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
+![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
 
 ### 🤖 AI / ML / LLM
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🧬 Bioinformatics & Quantum
+### 🧬 Bioinformatics & HPC
 ![BioPython](https://img.shields.io/badge/BioPython-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AlphaFold](https://img.shields.io/badge/AlphaFold-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white)
+![PDB](https://img.shields.io/badge/RCSB_PDB-E4002B?style=for-the-badge&logoColor=white)
+![TRUBA HPC](https://img.shields.io/badge/TRUBA_HPC-0F9D58?style=for-the-badge&logo=linux&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 
-### 🎨 Creative & 3D
+### 🎨 Creative, 3D & Publishing
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Higgsfield AI](https://img.shields.io/badge/Higgsfield_AI-8B5CF6?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![Higgsfield AI](https://img.shields.io/badge/Higgsfield_AI-8B5CF6?style=for-the-badge&logoColor=white)
+![Nano Banana](https://img.shields.io/badge/Nano_Banana-FFD200?style=for-the-badge&logoColor=black)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🤖 Robotics
 ![WPILib](https://img.shields.io/badge/WPILib-AC2B37?style=for-the-badge&logo=java&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![REV Robotics](https://img.shields.io/badge/REV_Robotics-00A94F?style=for-the-badge&logoColor=white)
 
-### 🛠 DevOps & Tools
+### 🛠 DevOps & Infrastructure
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
@@ -122,34 +250,62 @@ I come from a background in **literary writing and journalism** (Evrensel gazete
 <tr>
 <td width="50%" valign="top">
 
-### 🏫 Education — School Innovation Hub
-**Erasmus+ KA121 · eTwinning · STEM School Label**
+### 🧬 ZipTide — iGEM 2026
+**Team #6490 · Türkiye's only team this cycle**
 
-The nerve center. I coordinate Erasmus+ mobilities, 20+ eTwinning projects, STEM School Label applications, and institutional development for a public Anatolian high school in Kadıköy. Recent highlight: KA121 mobility to Palermo (IISS Lercara Friddi), with full documentation deployed as a [live Vercel web app](https://github.com/ByX0000/erasmus-timeline). Sister school protocols with Bosnia-Herzegovina. Italian reciprocal visit planned for October 2026 (12 students + 3 teachers).
+An 8-mer peptide design program targeting the **zonulin / tight junction pathway**, built by high school students. Wet lab runs on **Caco-2** and **HT-29** cell lines at YTÜ Molecular Biology & Genetics under Prof. Nehir Özdemir Özgentürk, with molecular docking on the **TRUBA** national HPC cluster.
 
-**665 students** across **16 MEB clubs** in **5 thematic areas**. Plus a pilot "Topluluklar Kulübü" with **350 students** and **20 communities**.
+Beyond the bench: a promotion video, a children's picture book, a bilingual screenplay format filed as an official iGEM **Contribution**, and a generative visualization of the complete 8-mer design space at **2,220,075 compositions**.
+
+*When a literature teacher's students start designing peptides, something is going right in education.*
 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 QuanGen — iGEM 2026
-**Quantum-Assisted Repressilator Optimization**
+### 🎓 Mentor Website & Mentor Portal
+**Guidance infrastructure, not a brochure**
 
-Our team is building a quantum-assisted genetic circuit optimizer using QAOA algorithms. Target: **iGEM 2026 Grand Jamboree** in Paris (November 13–16). We're running wet-lab protocols with *Physarum polycephalum* while simultaneously developing quantum computing pipelines. Partnerships in progress with İTÜ GALEN, Marmara University, and Acıbadem.
+A two-layer platform. The **public mentor website** carries the program, methodology, and application flow. The **mentor portal** is the working surface: student profiles, competition pipelines, university shortlists, deadline tracking, document versioning, and mentor notes in one place.
 
-*When a literature teacher's students start optimizing repressilators with quantum algorithms, something beautiful is happening in education.*
+Built for the gap I keep hitting in practice. Turkish students competing internationally need continuity between people, not scattered WhatsApp threads. The portal turns mentorship into something that survives handoffs.
+
+**Modules:** admissions timeline · competition tracker · essay review loop · recommendation-letter pipeline · scholarship matrix.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 FRC REEFSCAPE — School Robotics
-**Founder & Advisor**
+### 🇮🇹 Erasmus+ KA121 — Italy Circuit
+**Palermo out, Türkiye back**
 
-Founded my school's FIRST Robotics Competition team from scratch. Four students competed at the NYC Regional in 2025. Built a comprehensive **14-week Rookie Pipeline** framework for onboarding 9th–10th graders. Strategic partnerships with Sultans of Turkiye (Team 2905) and IstanBULLS (Team 6064). Next target: competing in a Turkish Regional under our own banner.
+Outbound mobility to **IISS Lercara Friddi, Palermo** (April 20–25) as a trilateral **TR + IT + BG** activity, delivered in full without grant funding. Everything produced in-house: exit cards, phrase guides, mobility documentation, and a live [Erasmus Timeline web app](https://github.com/ByX0000/erasmus-timeline).
 
-*Two TÜBİTAK first-place awards from previous school. Building that legacy forward.*
+The **return leg brings Italy to Türkiye**: an Italian delegation hosted in Istanbul with a reciprocal programme built around school-to-school workshops, heritage visits, and joint classroom sessions. Reciprocity is the whole point; a one-way mobility is tourism.
+
+</td>
+<td width="50%" valign="top">
+
+### 🇩🇪 Hugo-Junkers-Realschule Aachen
+**Erasmus+ · Deutsch-Türkische Jugendbrücke**
+
+Official since **May 2026**. A German partnership running on two rails at once: **Erasmus+** for the formal mobility framework and the **Deutsch-Türkische Jugendbrücke (DTJB)** for the youth-exchange funding and network layer.
+
+Contact point: Frau Söküt. The announcement drew **269 likes** on our school channels, which for a partnership post is its own small signal about how much students want this.
+
+**Track:** joint project design → student exchange → shared curriculum modules.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🇧🇦 Bosnia and Herzegovina
+**Sister School + 7 Bölge Partnership**
+
+A sister-school protocol that grew into something structurally more interesting: Bosnia and Herzegovina joins the **7 Bölge 7 Okul** cultural heritage framework as an international partner, extending a project designed around Türkiye's seven geographic regions across the Balkans.
+
+Shared Ottoman-era gastronomic and literary heritage makes this a natural fit rather than a diplomatic one. Year-1 gastronomy work already surfaced cross-border recipe overlaps worth documenting.
 
 </td>
 <td width="50%" valign="top">
@@ -157,7 +313,37 @@ Founded my school's FIRST Robotics Competition team from scratch. Four students 
 ### 🌍 7 Bölge 7 Okul
 **Cultural Heritage Initiative (2025–2029)**
 
-A 4-year cultural heritage project coordinated by our school with 6 partner schools across Turkey's 7 geographic regions. Year 1 output: **"Anadolu Sofrası"** — a bilingual gastronomy book with 49 recipes and Ottoman miniature illustrations. Website: [7bolge7okul.education](https://7bolge7okul.education) (open source, coded by me). Simultaneously runs as eTwinning project and TÜBİTAK 2204-A project.
+A four-year initiative coordinated by our school with **six partner schools across Türkiye's seven regions**, plus the Bosnia and Herzegovina partnership.
+
+**Year 1 output shipped June 17, 2026:** *"Ulusal Bir Kültür Köprüsü"*, a **179-page bilingual gastronomy book** with **49 recipes** and Ottoman miniature illustrations, produced through a Canva pipeline.
+
+A ZipTide sub-project scored all 49 recipes on gut-support and sustainability axes, defended through sensitivity analysis. Site: [7bolge7okul.education](https://7bolge7okul.education), self-hosted, open source.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Robotics — Two Teams, One Pipeline
+**FRC Singularity G-Flow · Marine Robotics**
+
+**FRC:** founding a competitive team with **Fikret Yüksel Vakfı** sponsorship, following a scouting trip to the NYC Regional. A **14-week Rookie Pipeline** in four phases handles onboarding for 9th and 10th graders. Partnerships with Sultans of Turkiye (2905) and IstanBULLS (6064).
+
+**Marine Robotics:** a second team founded this year, led by student Ahmet Kaan Yıldız, opening an underwater track alongside the FRC line.
+
+*Two TÜBİTAK first-place awards from a previous institution. Building that legacy forward here.*
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 ROTANAED
+**US University Guidance System**
+
+**110+ universities** documented across **9 US states** (MA, CA, TX, NY, PA, NJ, IL, CT, MD/DC). Each institution gets a full-format Word guide plus a structured JSON record for the app layer.
+
+Current work: Maryland/DC completion and migrating the JSON corpus to a unified template schema. Built for Turkish families navigating the American admissions labyrinth without a $300/hour consultant.
+
+*The tool every Turkish high schooler dreaming of America deserves, and none of them have.*
 
 </td>
 </tr>
@@ -165,43 +351,131 @@ A 4-year cultural heritage project coordinated by our school with 6 partner scho
 <td width="50%" valign="top">
 
 ### 🎬 Harname'nin Düşü
-**AI-Animated Film Project**
+**AI-Animated Film · BİR HAR BİR DİVAN**
 
-An AI-animated film adaptation of Şeyhi's 15th-century satirical poem *Harname*. 7-stage pipeline: Screenplay (Claude AI) → Character design (Nano Banana / Element Library) → Scene visuals → Animation (Higgsfield AI) → Editing (CapCut) → Audio/music → Final render. Character consistency via Higgsfield Element Library with @mention syntax.
+An AI-animated adaptation of Şeyhî's 15th-century satirical poem *Harnâme*, running as a four-year MEB action plan (institution code 964176).
+
+Pipeline: screenplay (Claude) → character design (Nano Banana / Element Library) → scene visuals → animation (Higgsfield) → editing (CapCut) → audio → render. Character consistency is held through the Element Library with @mention syntax.
 
 *A 600-year-old donkey's dream, rendered by machines that dream in pixels.*
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 ROTANAED
-**US University Guidance App**
+### 🧪 EdTech & Lab Bench
+**EduChain · Veli Anket · PureCheck · BioLLM**
 
-A comprehensive university guidance system covering **110+ universities** across **8 US states** (MA, CA, TX, NY, PA, IL, CT, MD/DC). Each university gets a detailed Word guide + JSON data file. Currently building out the Maryland/DC series. Designed for Turkish students navigating the American admissions labyrinth.
-
-*The app that every Turkish high schooler dreaming of America deserves — and none of them have.*
+**EduChain:** blockchain certificate verification, live. **Veli Memnuniyet Anketi:** a parent-satisfaction dashboard on Netlify. **PureCheck:** a cosmetic-ingredient app spec built on eight invariants, with hazard-versus-risk separation as its core distinction. **BioLLM:** biological signal to language-model modulation, from simulation through EMG hardware.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧫 BioLab Projects
-**Physarum · WiFi CSI · PoID**
+### 🏫 School Innovation Hub
+**Erasmus+ · eTwinning · STEM Label · Proje Okulu**
 
-**Physarum Robotics:** Slime mold-guided decision-making systems (TÜBİTAK 2204-A candidate). **Görünmez Doktor:** WiFi CSI biosensor project for non-invasive health monitoring. **PoID:** Blockchain-based certificate verification system. **GenBankası:** Bioinformatics platform integrating AI workflows.
+**665 students**, **16 MEB clubs** in 5 thematic areas, plus a *Topluluklar Kulübü* pilot with **350 students** across **20 communities** in 6 categories.
+
+STEM School Label scored **56/100** last cycle; the August 2026 re-application is mapped against all **21 criteria**. The **MEB Proje Okulu Report** runs 20 sections in 5 parts, with Section 5 and front matter complete.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Student Competition Ecosystem
+### 🏆 Student Competition Ecosystem
 **Global Recognition**
 
-**Lal Neva Erdem:** 2nd globally, Harvard Crimson Global Essay Competition → Harvard Summer Journalism Course. **Game Jam:** 2nd place at İstanbul Aydın Üniversitesi (game: "Robogun"). **Behçet Necatigil Poetry Competition** finalist. **School Art Competition** finalist. **GENIUS Olympiad** finalist (Rochester, NY, June 2026).
+**Lal Neva Erdem:** 2nd globally in Harvard Crimson (Argumentative), 1st in MENA + Africa, admitted to Harvard Summer Journalism Academy. **Zeynep Alya Alkaya:** MENA + Africa finalist. **Çeşme-i Hayat:** GENIUS Olympiad finalist, Rochester NY. **TKS 2026:** multiple acceptances. Plus Game Jam 2nd place (İstanbul Aydın, *Robogun*) and a Behçet Necatigil Poetry finalist.
+
+**Next target:** Breakthrough Junior Challenge, September 15, 2026.
 
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+## 🌐 International Partnership Network
+
+</div>
+
+```mermaid
+flowchart LR
+    TR["🇹🇷 Istanbul<br/>Coordinating School"]
+    IT["🇮🇹 Italy<br/>IISS Lercara Friddi<br/>Palermo"]
+    DE["🇩🇪 Germany<br/>Hugo-Junkers-Realschule<br/>Aachen"]
+    BA["🇧🇦 Bosnia and Herzegovina<br/>Sister School"]
+    BG["🇧🇬 Bulgaria<br/>Trilateral Partner"]
+    R7["🏛 7 Regions of Türkiye<br/>6 Partner Schools"]
+
+    TR -->|"Erasmus+ KA121 · Palermo to Istanbul return leg"| IT
+    TR -->|"Erasmus+ · Jugendbrücke · Official May 2026"| DE
+    TR -->|"Sister School Protocol + 7B7O Partnership"| BA
+    TR -->|"Trilateral Mobility TR + IT + BG"| BG
+    TR -->|"7 Bölge 7 Okul 2025-2029"| R7
+
+    style TR fill:#1f6feb,stroke:#58a6ff,color:#ffffff
+    style IT fill:#161b22,stroke:#238636,color:#8b949e
+    style DE fill:#161b22,stroke:#e3b341,color:#8b949e
+    style BA fill:#161b22,stroke:#8957e5,color:#8b949e
+    style BG fill:#161b22,stroke:#58a6ff,color:#8b949e
+    style R7 fill:#161b22,stroke:#f0883e,color:#8b949e
+```
+
+| Partner | Country | Framework | Status |
+|:--|:--|:--|:--|
+| IISS Lercara Friddi, Palermo | 🇮🇹 Italy | Erasmus+ KA121, trilateral TR+IT+BG | Outbound completed, **return leg to Türkiye in planning** |
+| Hugo-Junkers-Realschule, Aachen | 🇩🇪 Germany | Erasmus+ · Deutsch-Türkische Jugendbrücke | **Official since May 2026** |
+| Sister school, Bosnia and Herzegovina | 🇧🇦 BiH | Protocol + 7 Bölge 7 Okul partnership | Active |
+| Bulgarian partner school | 🇧🇬 Bulgaria | Trilateral mobility | Active |
+| Six schools, seven regions | 🇹🇷 Türkiye | 7 Bölge 7 Okul, eTwinning, TÜBİTAK 2204-A | Year 1 delivered |
+
+---
+
+<div align="center">
+
+## 📚 Selected Repositories
+
+</div>
+
+| Repo | What it is | Stack |
+|:--|:--|:--|
+| [`erasmus-timeline`](https://github.com/ByX0000/erasmus-timeline) | Interactive mobility timeline for the Palermo KA121 activity | JS · Vercel |
+| [`educhaingikal`](https://github.com/ByX0000/educhaingikal) | Blockchain-based certificate verification for school credentials | JS · Web3 |
+| [`veli-anket-gikal`](https://github.com/ByX0000/veli-anket-gikal) | Parent satisfaction survey dashboard | JS · Netlify |
+| `7bolge7okul` | Cultural heritage project site, self-hosted | HTML · Hetzner |
+| `mentor-website` | Public face of the mentorship programme | React · Tailwind |
+| `mentor-portal` | Student pipeline, deadlines, document tracking | React · Node |
+| `rotanaed` | US university guidance corpus, 110+ institutions | Python · JSON |
+
+---
+
+<div align="center">
+
+## 🧰 Custom Agent Skills
+
+*Reusable domain modules written for my own workflow*
+
+![erasmus](https://img.shields.io/badge/erasmus-1f6feb?style=flat-square&labelColor=0d1117)
+![etwinning](https://img.shields.io/badge/etwinning-1f6feb?style=flat-square&labelColor=0d1117)
+![frc](https://img.shields.io/badge/frc-AC2B37?style=flat-square&labelColor=0d1117)
+![biology](https://img.shields.io/badge/biology-238636?style=flat-square&labelColor=0d1117)
+![bakteri--modelleme](https://img.shields.io/badge/bakteri--modelleme-238636?style=flat-square&labelColor=0d1117)
+![biollm](https://img.shields.io/badge/biollm-238636?style=flat-square&labelColor=0d1117)
+![rotanaed](https://img.shields.io/badge/rotanaed--university--guide-8957e5?style=flat-square&labelColor=0d1117)
+![yarisma](https://img.shields.io/badge/uluslararasi--yarisma--rehberi-8957e5?style=flat-square&labelColor=0d1117)
+![tercuman](https://img.shields.io/badge/tercuman-f0883e?style=flat-square&labelColor=0d1117)
+![kare-kare](https://img.shields.io/badge/kare--kare-f0883e?style=flat-square&labelColor=0d1117)
+![mor-cagrisim](https://img.shields.io/badge/mor--cagrisim-f0883e?style=flat-square&labelColor=0d1117)
+![mor-ruyalar](https://img.shields.io/badge/mor--ruyalar-f0883e?style=flat-square&labelColor=0d1117)
+![sahne-oyun](https://img.shields.io/badge/sahne--oyun-f0883e?style=flat-square&labelColor=0d1117)
+![maestro](https://img.shields.io/badge/maestro-e3b341?style=flat-square&labelColor=0d1117)
+
+</div>
+
+Domain modules covering Erasmus+ application drafting, eTwinning quality-label workflows, FRC engineering guidance, bioinformatics analysis, university guide production, cross-modal data transduction (`tercuman`), cinematic AI production (`kare-kare`), and divergent ideation (`mor-cagrisim`). Every one started as a workflow I was repeating by hand too many times.
 
 ---
 
@@ -238,7 +512,7 @@ A comprehensive university guidance system covering **110+ universities** across
   <img alt="github-snake" src="https://raw.githubusercontent.com/ByX0000/ByX0000/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </picture>
 
-*Set up with [snk](https://github.com/Platane/snk) GitHub Action — because contributions should slither across the screen.*
+*Set up with [snk](https://github.com/Platane/snk) GitHub Action, because contributions should slither across the screen.*
 
 </div>
 
@@ -250,7 +524,7 @@ A comprehensive university guidance system covering **110+ universities** across
 
 </div>
 
-This work is only possible because others fought for the idea that **knowledge should be free**. Every line of code I write, every project I coordinate, every student I guide toward international competitions — all of it traces back to people who believed that information shouldn't be locked behind walls.
+This work is only possible because others fought for the idea that **knowledge should be free**. Every line of code I write, every project I coordinate, every student I guide toward international competitions traces back to people who believed information shouldn't be locked behind walls.
 
 <table>
 <tr>
@@ -264,7 +538,7 @@ Co-creator of RSS, Reddit, Creative Commons. Arrested for downloading academic p
 <br/>
 <strong>Satoshi Nakamoto</strong><br/>
 <em>Identity unknown</em><br/><br/>
-Proved that the most revolutionary act in technology can be anonymous. Created Bitcoin, then vanished — leaving behind a protocol, not a personality. The ultimate open-source contribution: build something that changes the world, then let the world have it.
+Proved that the most revolutionary act in technology can be anonymous. Created Bitcoin, then vanished, leaving behind a protocol rather than a personality. The ultimate open-source contribution: build something that changes the world, then let the world have it.
 </td>
 <td align="center" width="20%">
 <br/>
@@ -276,7 +550,7 @@ Founded the Free Software Foundation, wrote the GPL, created GNU. Before "open s
 <br/>
 <strong>Linus Torvalds</strong><br/>
 <em>b. 1969</em><br/><br/>
-Created Linux and Git — two tools that literally run the modern internet. Proved that a Finnish student's hobby project could become the backbone of global infrastructure. Every `git push` is a thank-you note.
+Created Linux and Git, two tools that literally run the modern internet. Proved that a Finnish student's hobby project could become the backbone of global infrastructure. Every <code>git push</code> is a thank-you note.
 </td>
 <td align="center" width="20%">
 <br/>
@@ -313,27 +587,27 @@ Created Sci-Hub, the "Pirate Bay of science." Made 85+ million research papers f
 │                                                                         │
 │   I am a teacher. Teachers are the original open-source contributors.   │
 │                                                                         │
-│   Every lesson plan is a fork. Every classroom is a pull request         │
-│   against ignorance. Every student who learns something new              │
-│   is a successful deployment.                                            │
+│   Every lesson plan is a fork. Every classroom is a pull request        │
+│   against ignorance. Every student who learns something new             │
+│   is a successful deployment.                                           │
 │                                                                         │
-│   The best code, like the best education, is:                            │
-│     → freely available                                                   │
-│     → well-documented                                                    │
-│     → open to improvement                                                │
-│     → designed to be forked                                              │
+│   The best code, like the best education, is:                           │
+│     → freely available                                                  │
+│     → well-documented                                                   │
+│     → open to improvement                                               │
+│     → designed to be forked                                             │
 │                                                                         │
-│   I build tools for students who can't afford expensive software.        │
-│   I write guides for families navigating college admissions alone.       │
-│   I create platforms that connect schools across borders.                │
+│   I build tools for students who can't afford expensive software.       │
+│   I write guides for families navigating college admissions alone.      │
+│   I create platforms that connect schools across borders.               │
 │                                                                         │
-│   This is not charity. This is infrastructure.                           │
+│   This is not charity. This is infrastructure.                          │
 │                                                                         │
 │   12+ open-source repositories and counting.                            │
-│   Every one of them a small act of resistance against the idea           │
-│   that knowledge has a price tag.                                        │
+│   Every one of them a small act of resistance against the idea          │
+│   that knowledge has a price tag.                                       │
 │                                                                         │
-│   Fork everything. Share everything. Build everything.                   │
+│   Fork everything. Share everything. Build everything.                  │
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
@@ -342,37 +616,43 @@ Created Sci-Hub, the "Pirate Bay of science." Made 85+ million research papers f
 
 <div align="center">
 
-## 🎯 2025–2026 Mission Board
+## 🎯 Roadmap · 2026
 
 </div>
 
 ```mermaid
-mindmap
-  root((Education 2026))
-    🧬 iGEM Paris
-      QAOA Repressilator
-      Physarum Lab
-      University Partnerships
-    🤖 FRC
-      Turkish Regional
-      Rookie Pipeline
-      Sponsor Network
-    🌍 Erasmus+
-      Italy Reciprocal Visit
-      Bosnia Protocol
-      DTJB Partnership
-    🎬 Creative
-      Harname Film
-      3D Animation Pipeline
-      AI Video Production
-    📱 EdTech
-      ROTANAED 150+ Unis
-      Pusula Dashboard
-      GenBankası Platform
-    🏆 Competitions
-      GENIUS Olympiad
-      Harvard REA Prep
-      Game Jam Expansion
+gantt
+    title Mission Board 2026
+    dateFormat YYYY-MM-DD
+    axisFormat %b
+
+    section iGEM ZipTide
+    Wet lab Caco-2 / HT-29        :active, lab, 2026-06-01, 2026-10-15
+    Wiki and IHP build            :wiki, 2026-08-15, 2026-10-01
+    Grand Jamboree                :milestone, jam, 2026-11-13, 4d
+
+    section International
+    STEM School Label re-apply    :active, stem, 2026-08-01, 30d
+    Germany Jugendbrücke design   :de, 2026-09-01, 60d
+    Italy return leg to Türkiye   :it, 2026-10-01, 30d
+    Bosnia 7B7O integration       :ba, 2026-09-15, 75d
+
+    section EdTech
+    Mentor Website launch         :active, mw, 2026-08-01, 45d
+    Mentor Portal v1              :mp, 2026-09-01, 90d
+    ROTANAED to 150 universities  :rot, 2026-08-01, 120d
+
+    section Heritage
+    7B7O Year 2 theme kickoff     :y2, 2026-09-15, 60d
+    Harname production            :har, 2026-09-01, 120d
+
+    section Robotics
+    FRC Singularity build season  :frc, 2026-09-01, 120d
+    Marine Robotics first build   :mar, 2026-09-15, 90d
+
+    section Competitions
+    Breakthrough Junior deadline  :milestone, bjc, 2026-09-15, 1d
+    Harvard Crimson next cycle    :hcg, 2026-09-01, 60d
 ```
 
 ---
@@ -389,11 +669,12 @@ mindmap
 
 ### 💬 Open to
 
-🤝 **Erasmus+ partnerships** — especially Mediterranean & Balkans schools
-🧬 **iGEM collaborations** — synthetic biology + quantum computing crossovers
-🤖 **FRC mentorship** — rookie teams in Turkey
-📚 **EdTech co-development** — university guidance, student dashboards
-🎨 **Creative projects** — AI animation, generative art, cross-modal data art
+🤝 **Erasmus+ partnerships**, especially Mediterranean, Balkans and German-speaking schools
+🧬 **iGEM collaborations**, high school teams and university mentorship alike
+🤖 **FRC and marine robotics mentorship** for rookie teams in Türkiye
+📚 **EdTech co-development**: university guidance, mentorship portals, student dashboards
+🏛 **Cultural heritage projects** with a digital publishing layer
+🎨 **Creative projects**: AI animation, generative art, cross-modal data art
 
 ---
 
@@ -404,8 +685,6 @@ mindmap
 
 <br/>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,70:1f6feb,100:8957e5&height=130&section=footer" width="100%"/>
 
 </div>
