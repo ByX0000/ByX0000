@@ -156,6 +156,12 @@ mindmap
       Veli Anket Dashboard
       PureCheck
     🏛 Cultural Heritage
+        7 Kültür Field Collection
+        Shared Field Protocol
+        Oral History Archive
+        Dialect and Folk Records
+        Bilingual Transcripts
+        Documentary Film
       7 Bölge 7 Okul 2025-2029
         Ulusal Bir Kültür Köprüsü
         49 Recipes · 179 Pages
@@ -243,6 +249,27 @@ mindmap
 <div align="center">
 
 ## 🚀 What I'm Currently Building
+<tr>
+<td width="50%" valign="top">
+
+### 🎥 7 Bölge 7 Kültür — Field Collection & Documentary
+**Oral history, recorded by the people who live it**
+
+A fieldwork strand running inside the 7 Bölge 7 Okul framework. Student teams across Türkiye's seven regions collect what does not survive in textbooks: dialect samples, folk songs, craft techniques, kitchen vocabulary, migration stories, and the small rituals that carry a region's memory.
+
+Every partner school works from a shared field protocol so the material stays comparable across regions: interview guide, consent forms, audio and video capture standards, metadata sheet, transcription and translation templates. Everything is archived with full source attribution and released bilingually.
+
+The output is a **documentary film** cut from the seven regional archives, plus a searchable field-collection corpus that later project years build on. Culture documented from inside, not about.
+
+**Layers:** field protocol · student fieldwork · archive · transcription · documentary edit · bilingual release.
+
+</td>
+<td width="50%" valign="top">
+
+*(buraya mevcut bir kartı taşı ya da yeni bir kart ekle)*
+
+</td>
+</tr>
 
 </div>
 
@@ -643,6 +670,8 @@ gantt
     ROTANAED to 150 universities  :rot, 2026-08-01, 120d
 
     section Heritage
+    7 Kültür field collection     :active, sfc, 2026-09-01, 150d
+    Documentary edit and release  :doc, 2027-02-01, 90d
     7B7O Year 2 theme kickoff     :y2, 2026-09-15, 60d
     Harname production            :har, 2026-09-01, 120d
 
